@@ -4,7 +4,7 @@ An interactive Tableau story exploring how Netflix's content catalog has evolved
 
 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/Netflix_17888067069740/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** 
 
-![Cover Page](docs/Story 1.png)
+[Cover Page] - (docs/Story 1.png)
 
 ## Overview
 
